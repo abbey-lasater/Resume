@@ -69,7 +69,7 @@
 
 body {
   margin: 0;
-  font-family: 'Hk Grotesk', sans-serif;
+  font-family: 'Jost', sans-serif;
   font-size: var(--bs-body-font-size);
   font-weight: var(--bs-body-font-weight);
   line-height: var(--bs-body-line-height);
@@ -1970,9 +1970,9 @@ textarea.form-control-lg {
 
 .column {
   flex: 1;
-  margin-right: 210px; 
+  margin-right: 230px; 
   margin-top: 100px; /* Adjust the margin-top as needed */
-  margin-left: -110px;
+  margin-left: -180px;
 }
 
 .form-select {
