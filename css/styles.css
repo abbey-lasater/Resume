@@ -1948,6 +1948,18 @@ textarea.form-control-lg {
   height: calc(1.5em + 1rem + 2px);
 }
 
+.columns {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.column {
+  flex: 1;
+  margin-right: 210px; 
+  margin-top: 100px; /* Adjust the margin-top as needed */
+  margin-left: -110px;
+}
+
 .form-select {
   display: block;
   width: 100%;
